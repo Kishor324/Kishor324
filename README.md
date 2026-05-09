@@ -1,59 +1,102 @@
-# Hello, I'm Kishor
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# 👋 Hello, I'm kishor!
 
-[Brief Introduction]
+<a href="https://www.linkedin.com/in/vivek-bhatt-44aa27343/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a college student with a profound interest in cybersecurity and a dedication to solving complex problems.
 
-## Objective
+<div align="center">
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=🚀Kishor+Prashad+Bhatt;💻+Frontend+%7C+Backend+%7C+DSA;🔥+Open+Source+Contributor;⚡+Always+Learning+New+Technologies" />
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+---
+
+
+
+
+
+
+
+---
+## 🚀 About Me
+
+I’m a passionate **Computer Science student** currently diving deep into the world of **Artificial Intelligence** and **Web Development**. I love solving real-world problems, building cool projects, and continuously expanding my skills in tech.
+
+---
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=kishor324&theme=tokyonight&hide_border=true"/>
+
 </div>
 
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+---
+
+
+
 </div>
 
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+---
+
+
+
+
+
+
+
+## 🎯 Objective
+
+To grow as a creative developer and AI enthusiast — building projects that combine the power of intelligent systems with clean, user-friendly web applications.
+
+---
+
+## 🛠️ Skills & Interests
+
+| Skills                         | Currently Exploring                |
+|--------------------------------|------------------------------------|
+| Python Programming             | AI Model Development               |
+| Web Development (HTML, CSS, JS) | Responsive Web Projects            |
+| AI/ML Fundamentals             | Data Analysis & Visualization      |
+| Git & GitHub                   | Version Control & Open-Source      |
+
+---
+
+## ⚙️ Tools & Technologies
+
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
 </div>
 
-## Projects
-- Detection Lab
-- SOC Automation Project
+---
+
+## 📝 Projects
+
+- **AI-Powered Chatbot** *(coming soon)*
+- **Portfolio Website** *(in progress)*
+- **Basic Data Analysis Projects**
+
+*More projects on the way as I learn and build!*
+
+---
+
+## 📖 Currently Learning
+
+- AI/ML Fundamentals (Supervised, Unsupervised Learning)
+- MERN Stack Web Development
+- Python Libraries (NumPy, Pandas, Matplotlib)
+
+---
+
+## 📢 Fun Fact
+
+I’m fueled by curiosity and believe in **learning by doing**. Always eager to collaborate on interesting projects and open-source ideas!
+
+---
+
